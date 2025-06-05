@@ -27,7 +27,7 @@ This CloudFormation template provisions core AWS infrastructure components using
 
 ## 🧱 Architecture
 
-![Image](https://github.com/user-attachments/assets/6fb858ad-c279-4cff-8ed2-cc13804b1bca)
+![Image](https://github.com/user-attachments/assets/7e755ecf-ba6f-40ad-90f0-e4de2b33dda2)
 
 ## 🚀 Deployment
 
@@ -43,8 +43,12 @@ aws cloudformation create-stack \
     ParameterKey=VPCIDP,ParameterValue=10.0.0.0/16 \
     ParameterKey=VPCSubnetR,ParameterValue=10.0.1.0/24 \
   --capabilities CAPABILITY_NAMED_IAM
+```
+
 OR
+
 ```
 use AWS comsole directly
 ```
+
 ## ⚠️ Ensure the AMI ID is valid in your region and the bucket name is globally unique.
