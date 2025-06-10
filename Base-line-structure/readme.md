@@ -30,7 +30,7 @@ This project aims to develop a CloudFormation template that creates a baseline s
 ## Deployment Instructions
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/reponame.git
+git clone [https://github.com/yourusername/reponame.git](https://github.com/interludevinay/AWS-CFN.git)
 cd reponame
 ```
 
