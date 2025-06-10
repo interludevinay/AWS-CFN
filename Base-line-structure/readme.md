@@ -1,4 +1,4 @@
-🏗️ AWS CloudFormation Template for Baseline Infrastructure
+# 🏗️ AWS CloudFormation Template for Baseline Infrastructure
 
 ## Overview
 This project aims to develop a CloudFormation template that creates a baseline structure for a cloud infrastructure in AWS. The template will provision essential networking components, including a Virtual Private Cloud (VPC), subnets, routing tables, network access control lists (NACLs), and security groups.
